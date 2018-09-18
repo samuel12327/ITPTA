@@ -72,8 +72,8 @@
 # print(nums)
 
 # print(len(nums))
-res = 1
-for i in range(5):
-    res = res * (i+1)
-    print(res)
-print(res)
+# res = 1
+# for i in range(5):
+#     res = res * (i+1)
+#     print(res)
+# print(res)

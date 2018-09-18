@@ -1,3 +1,5 @@
+# RIGHT ANGLED-TRIANGLE
+
 x = 0
 h = 10
 
